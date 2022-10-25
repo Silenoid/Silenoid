@@ -1,6 +1,9 @@
 <p>
     <div align='center'>
         <img align='center' src="sileno.svg" alt="SILENO">
+    </div>    
+    <div align='center'>
+            <img align='center' src="animated-svg.svg" alt="SILENO">
     </div>
     <p>
         I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
