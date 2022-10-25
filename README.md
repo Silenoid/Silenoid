@@ -1,5 +1,7 @@
 <p>
-    <img align='center' src="sileno.svg" alt="SILENO">
+    <div align='center'>
+        <img align='center' src="sileno.svg" alt="SILENO">
+    </div>
     <p>
         I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
     </p>
@@ -7,7 +9,7 @@
         <h1 align="center"></h1>
         <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=silenoid&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" />
         <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenoid&layout=compact&hide_border=true&theme=darcula&langs_count=9&bg_color=00000000" />
-        <img height="200" />
+        <img height="200"/>
         <br>
         <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
         <h2 align="left" font-weight="bold">About me</h2>
