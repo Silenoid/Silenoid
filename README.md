@@ -1,18 +1,46 @@
-    
+<p>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%">
+        <!-- Text using the #pattern in defs as the fill -->
+        <text x="50%" text-anchor="middle" y="50%" dy="0.4em" fill="url(#pattern)" font-family="sonos-logoregular" font-size="10vh">SILENO</text>
+        <defs>
+            <!-- Da gradient -->
+            <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0">
+            <stop offset="0%" style="stop-color:#33235b;"/>
+            <stop offset="25%" style="stop-color:#D62229;"/>
+            <stop offset="50%" style="stop-color:#E97639;"/>
+            <stop offset="75%" style="stop-color:#792042;"/>
+            <stop offset="100%" style="stop-color:#33235b;"/>
+            </linearGradient>
+            <!-- Stitch 2 gradients together for seamless animation  -->
+            <pattern id="pattern" x="0" y="0" width="300%" height="100%" patternUnits="userSpaceOnUse">
+            <rect x="0" y="0" width="150%" height="100%" fill="url(#gradient)">
+                <animate attributeType="XML"
+                        attributeName="x"
+                        from="0" to="150%"
+                        dur="7s"
+                        repeatCount="indefinite"/>
+            </rect>
+            <rect x="-150%" y="0" width="150%" height="100%" fill="url(#gradient)">
+                <animate attributeType="XML"
+                        attributeName="x"
+                        from="-150%" to="0"
+                        dur="7s"
+                        repeatCount="indefinite"/>
+            </rect>
+          </pattern>
+        </defs>
+      </svg>
     <p>
         I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
     </p>
-    
     <p align='center'>
         <h1 align="center"></h1>
         <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=silenoid&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" />
         <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenoid&layout=compact&hide_border=true&theme=darcula&langs_count=9&bg_color=00000000" />
         <img height="200" />
         <br>
-
         <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
         <h2 align="left" font-weight="bold">About me</h2>
-        
         <br>
         <h2 font-weight="bold">Skill set</h2>
         <table>
@@ -37,10 +65,8 @@
                 <td><img src="https://cdn.iconscout.com/icon/free/png-256/extjs-458279.png?raw=true" width="200"></td>
             </tr>
         </table>
-
         <br/>
         <h3 align="center" >Connect with me</h3>
-        
         <p align="center">
             <div align="center"  class="icons-social" style="margin-left: 10px;">
                 <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jundi-husni/">
@@ -58,3 +84,4 @@
             </div>                         
         </p>
     </p>
+</p>
