@@ -12,8 +12,8 @@
     </p>
     <p align='center'>
         <h1 align="center"></h1>
-        <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=silenoid&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" />
-        <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenoid&layout=compact&hide_border=true&theme=darcula&langs_count=9&bg_color=00000000" />
+        <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=silenoid&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+        <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenoid&layout=compact&hide_border=true&theme=github_dark&langs_count=9&bg_color=00000000" />
         <img height="200"/>
         <br>
         <h2 font-weight="bold">Skill set</h2>
