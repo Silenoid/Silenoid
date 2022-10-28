@@ -7,6 +7,10 @@
     </div>
     <img align="left" src = "person.svg" width=32px height=32px style="margin-right: 10px;">
     <h2 align="left" font-weight="bold">About me</h2>
+    <video width="320" height="240" autoplay>
+        <source src="video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
     <p>
         I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
     </p>
