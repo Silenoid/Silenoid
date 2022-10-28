@@ -1,6 +1,6 @@
 <p>
     <div align='center'>
-        <img align='center' src="sileno.svg" alt="SILENO">
+        <img align='center' src="sileno.svg" alt="SILENO" style="transform: rotate3d(1, 1, 1, 45deg);">
     </div>
     <div align='center'>
             <img align='center' src="animated-svg.svg" alt="SILENO">
