@@ -23,7 +23,7 @@
         <img height="100"/>
         <br>
         <h2 font-weight="bold">Skill set</h2>
-        <table>
+        <table cellspacing="0" cellpadding="0" style="border: none;">
             <tr>
                 <td><img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png?raw=true" width="200"></td>
                 <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png?raw=true" width="200"></td>
