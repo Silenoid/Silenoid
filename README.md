@@ -17,10 +17,10 @@
     <p align='center'>
         <h1 align="center"></h1>
         <div>
-        <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=silenoid&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=issues,contribs&bg_color=00000000" />
-        <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenoid&layout=compact&hide_border=true&theme=github_dark&langs_count=9&bg_color=00000000" />
+        <img align="left" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=silenoid&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+        <img align="right" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenoid&layout=compact&hide_border=true&theme=github_dark&langs_count=9&bg_color=00000000" />
         </div>
-        <img height="100"/>
+        <img height="200px"/>
         <br>
         <h2 font-weight="bold">Skill set</h2>
         <table cellspacing="0" cellpadding="0" style="border: none;">
