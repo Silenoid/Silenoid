@@ -6,8 +6,8 @@
             <img align='center' src="animated-svg.svg" alt="SILENO">
     </div>
     <div>
-    <img align="left" src = "person.svg" width=32px height=32px style="margin-right: 10px;">
-    <h2 align="left" font-weight="bold">About me</h2>
+        <img align="left" src = "icons/person.svg" width=32px height=32px style="margin-right: 10px;">
+        <h2 align="left" font-weight="bold">About me</h2>
     </div>
     <p>
         Hello, I'm an italian software engineer, working and living in Rotterdam, who likes to code stuff.<br>
@@ -22,19 +22,58 @@
         </div>
         <img height="200px"/>
         <br>
-        <h2 font-weight="bold">Skill set</h2>
-        <table cellspacing="0" cellpadding="0" style="border: none;">
-            <tr>
-                <td><img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png?raw=true" width="200"></td>
-                <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png?raw=true" width="200"></td>
-                <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
-                <td><img src="https://cdn.iconscout.com/icon/free/png-256/extjs-458279.png?raw=true" width="200"></td>
-            </tr>
-        </table>
+        <div style="margin-top: 30px;">
+            <img align="left" src = "icons/key.svg" width=32px height=32px style="margin-right: 10px;">
+            <h2 align="left" font-weight="bold">I'm proficient with</h2>
+        </div>
+        <p>
+            <div class="icons-social" style="margin-left: 10px;">
+                <a style="margin-left: 10px;"  target="_blank">
+                <img src="icons\apps\java.png" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\spring.svg" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\oracle.png" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\prometheus.png" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\grafana.svg" height="96px"></a>
+            </div>
+        </p>
+        <div style="margin-top: 30px;">
+            <img align="left" src = "icons/clock.svg" width=32px height=32px style="margin-right: 10px;">
+            <h2 align="left" font-weight="bold">I've worked with</h2>
+        </div>
+        <p>
+            <div class="icons-social" style="margin-left: 10px;">
+                <a style="margin-left: 10px;"  target="_blank">
+                <img src="icons\apps\rust.svg" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\godot.svg" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\javascript.png" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\docker.png" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\cs.png" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\html.png" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\css.png" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\postgres.png" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\android.svg" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\cpp.svg" height="96px"></a>
+                <a style="margin-left: 10px;" target="_blank">
+                <img src="icons\apps\qt.png" height="96px"></a>
+            </div>
+        </p>
         <br/>
-        <h3 align="center" >You can find me here</h3>
+        <h2 align="center" style="margin-top: 30px;">You can find me here</h2>
         <p align="center">
-            <div align="center"  class="icons-social" style="margin-left: 10px;">
+            <div align="center" style="margin-left: 10px;">
                 <a style="margin-left: 10px;"  target="_blank" href="mailto:silenovc@gmail.com">
                 <img src="icons\icons8-circled-envelope-48.png" ></a>
                 <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/vincenzocanfora/">
