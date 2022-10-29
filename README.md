@@ -9,7 +9,11 @@
     <img align="left" src = "person.svg" width=32px height=32px style="margin-right: 10px;">
     <h2 align="left" font-weight="bold">About me</h2>
     </div>
-    <p>I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.</p>
+    <p>
+        Hello, I'm an italian software engineer, working and living in Rotterdam, who likes to code stuff.
+        My professional experience is mainly about microservices, backend development and some CI/CD stuff.
+        My hobbist life is all about playing/developing videogames, microcontrollers, plants and video production.
+    </p>
     <p align='center'>
         <h1 align="center"></h1>
         <div>
