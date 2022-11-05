@@ -10,9 +10,9 @@
         <h2 align="left" font-weight="bold">About me</h2>
     </div>
     <p>
-        Hello, I'm an italian software engineer, working and living in Rotterdam, who likes to code stuff.<br>
-        My professional experience is mainly about microservices, backend development and some CI/CD stuff.<br>
-        My hobbist life is all about playing/developing videogames, microcontrollers, plants and video production.<br>
+Hello, I'm an Italian software engineer, working and living in Rotterdam, who likes to code stuff.
+My professional experience is mainly about microservices, backend development, and some CI/CD stuff.
+My hobbies are all about playing/developing video games, microcontrollers, plants, and video editing.
     </p>
     <p align='center'>
         <h1 align="center"></h1>
